@@ -1,0 +1,20 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: white;
+}
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: darkorchid;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 10px;
+}
